@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>修改文章 - ${SITE_NAME} - Powered By JEESNS</title>
+    <title>修改文章 - ${SITE_NAME}S</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
     <link href="${basePath}/res/common/css/zui.min.css" rel="stylesheet">

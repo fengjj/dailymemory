@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${SITE_NAME} - ${SITE_SEO_TITLE} - Powered By JEESNS</title>
+    <title>${SITE_NAME} - ${SITE_SEO_TITLE}</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
-    <meta name="author" content="JEESNS"/>
+    <meta name="author" content="Daily Memory"/>
     <link rel="shortcut icon" href="favicon.ico">
     <link href="${basePath}/res/common/css/zui.min.css" rel="stylesheet">
     <link href="${basePath}/res/front/css/app.css" rel="stylesheet">

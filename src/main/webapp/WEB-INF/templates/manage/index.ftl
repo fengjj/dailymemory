@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>JEESNS后台管理首页 - ${SITE_NAME} - JEESNS后台管理系统 - Powered By JEESNS</title>
+    <title>Daily Memory后台管理首页 - ${SITE_NAME} - Daily Memory后台管理系统</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
-    <meta name="author" content="JEESNS"/>
+    <meta name="author" content="Daily Memory"/>
     <link href="${basePath}/res/common/css/bootstrap.min.css" rel="stylesheet">
     <link href="${basePath}/res/common/css/font-awesome.min.css" rel="stylesheet">
     <link href="${basePath}/res/manage/css/AdminLTE.css" rel="stylesheet">
@@ -29,7 +29,7 @@
             <div class="box-body">
                 <div class="row">
                     <div class="alert alert-info alert-dismissible">
-                        感谢您使用JEESNS，JEESNS正在不断完善中，可以向我们提出宝贵的建议或意见，JEESNS的成长需要大家的支持。
+                        感谢您使用Daily Memory，Daily Memory正在不断完善中，可以向我们提出宝贵的建议或意见，Daily Memory的成长需要大家的支持。
                     </div>
                 </div>
             </div>
@@ -38,17 +38,17 @@
                     <div class="box box-primary">
                         <div class="box-body">
                             <p>
-                                感谢您使用JEESNS，JEESNS是一款基于JAVA企业级平台研发的社交管理系统，
+                                感谢您使用Daily Memory，Daily Memory是一款基于JAVA企业级平台研发的社交管理系统，
                                 依托企业级JAVA的高效、安全、稳定等优势，开创国内JAVA版开源SNS先河。
                                 数据库使用MYSQL，全部源代码开放，官方网址：
-                                <a href="http://www.jeesns.cn" target="_blank">www.jeesns.cn</a>。
+                                <a href="http://dailymemory.cn" target="_blank">dailymemory.cn</a>。
                             </p>
                             <p>
                                 <a class="btn btn-success"
                                    href="http://wpa.qq.com/msgrd?v=3&uin=582866070&site=qq&menu=yes" target="_blank">
                                     <i class="fa fa-qq"> </i> 联系我
                                 </a>
-                                <a class="btn btn-white btn-bitbucket" href="http://www.jeesns.cn" target="_blank">
+                                <a class="btn btn-white btn-bitbucket" href="http://dailymemory.cn" target="_blank">
                                     <i class="fa fa-home"></i> 访问官网
                                 </a>
                             </p>
@@ -60,7 +60,7 @@
                         <div class="box-body">
                             <p>
                                 技术支持：<a href="http://www.lxinet.com">凌夕网络（www.lxinet.com）</a><br/>
-                                产品交流：<a href="http://www.jeesns.cn">JEESNS社区（www.jeesns.cn）</a><br/>
+                                产品交流：<a href="http://dailymemory.cn">Daily Memory社区（dailymemory.cn）</a><br/>
                                 服务器赞助：<a href="http://www.919dns.com">919数据中心（www.919dns.com）</a><br/>
                                 QQ交流群：280062708<br/>
                                 商业授权QQ：582866070
@@ -100,7 +100,7 @@
                             <p>当前版本:${systemVersion}</p>
                             <p>当前版本更新时间:${systemUpdateTime}</p>
                             <p>最新版本:<span class="lastSystemVersion"></span> &nbsp;&nbsp;
-                                <a href="http://www.jeesns.cn" target="_blank">官网查看</a></p>
+                                <a href="http://dailymemory.cn" target="_blank">官网查看</a></p>
                             <p>最新版本更新时间:<span class="lastSystemUpdateTime"></span></p>
                             <p>&nbsp;</p>
                             <p>&nbsp;</p>
@@ -115,7 +115,7 @@
                             <h5 class="box-title">二次开发</h5>
                         </div>
                         <div class="box-body">
-                            <p>我们提供基于JEESNS的二次开发、模板定制服务，具体费用请联系我们。</p>
+                            <p>我们提供基于Daily Memory的二次开发、模板定制服务，具体费用请联系我们。</p>
                             <p>同时，我们也提供以下服务：</p>
                             <ol>
                                 <li>网站定制开发</li>
@@ -136,7 +136,7 @@
                             <p>商业授权后我可以获得什么？</p>
                             <ol>
                                 <li>可以用于商业网站</li>
-                                <li>可以去除Powered by JEESNS</li>
+                                <li>可以去除Powered by Daily Memory</li>
                                 <li>获得更多功能；</li>
                                 <li>意见或建议优先考虑；</li>
                                 <li>提供技术服务支持；</li>
@@ -415,7 +415,7 @@
 </div>
 <script>
     $(document).ready(function () {
-        $.getJSON("http://www.jeesns.cn/newVersion?callback=?", function(result){
+        $.getJSON("http://dailymemory.cn/newVersion?callback=?", function(result){
             $(".lastSystemVersion").html(result.LAST_SYSTEM_VERSION);
             $(".lastSystemUpdateTime").html(result.LAST_SYSTEM_UPDATE_TIME);
         });

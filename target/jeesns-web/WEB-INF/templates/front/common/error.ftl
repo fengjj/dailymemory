@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>出现错误 - ${SITE_NAME} - Powered By JEESNS</title>
+    <title>出现错误 - ${SITE_NAME}</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
-    <meta name="author" content="JEESNS"/>
+    <meta name="author" content="Daily Memory"/>
     <script src="${basePath}/res/common/js/jquery-2.1.1.min.js"></script>
     <style type="text/css">
         *{margin:0;padding:0;list-style-type:none;}

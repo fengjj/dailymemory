@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${GROUP_ALIAS} - ${SITE_NAME} - Powered By JEESNS</title>
+    <title>${GROUP_ALIAS} - ${SITE_NAME}</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
-    <meta name="author" content="JEESNS"/>
+    <meta name="author" content="Daily Memory"/>
     <link href="${basePath}/res/common/css/bootstrap.min.css" rel="stylesheet">
     <link href="${basePath}/res/common/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="${basePath}/res/common/css/jeesns.css">
