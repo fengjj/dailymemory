@@ -1,5 +1,5 @@
 /**
- * Created by zchuanzhao on 16/9/27.
+ * Created by dm on 16/9/27.
  */
 var reg_rule = {
     'require'    :    /.+/,

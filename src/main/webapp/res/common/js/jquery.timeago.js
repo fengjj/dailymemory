@@ -1,5 +1,5 @@
 /**
- * Created by zchuanzhao on 2017/6/18.
+ * Created by dm on 2017/6/18.
  */
 $(document).ready(function () {
     $(".timeago").timeago();

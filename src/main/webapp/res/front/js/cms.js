@@ -1,5 +1,5 @@
 /**
- * Created by zchuanzhao on 2016/12/21.
+ * Created by dm on 2016/12/21.
  */
 var cms = {
     commentList : function (articleId,pageNo) {
