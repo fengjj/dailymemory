@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>微博管理 - ${SITE_NAME} - Daily Memory后台管理系统</title>
+    <title>微博管理 - ${SITE_NAME} - 后台管理系统</title>
     <meta name="keywords" content="${SITE_KEYS}"/>
     <meta name="description" content="${SITE_DESCRIPTION}"/>
     <meta name="author" content="Daily Memory"/>

@@ -2,11 +2,11 @@ package com.lxinet.jeesns.core.utils;
 
 public class Const {
 
-	public static final String SYSTEM_NAME = "JEESNS";
-	public static final String SYSTEM_VERSION = "1.2.1";
-	public static final String SYSTEM_UPDATE_TIME = "2017-12-04";
-	public static final String LAST_SYSTEM_VERSION = "1.2.1";
-	public static final String LAST_SYSTEM_UPDATE_TIME = "2017-12-04";
+	public static final String SYSTEM_NAME = "Daily Memory";
+	public static final String SYSTEM_VERSION = "1.0.0";
+	public static final String SYSTEM_UPDATE_TIME = "2018-11-01";
+	public static final String LAST_SYSTEM_VERSION = "1.0.0";
+	public static final String LAST_SYSTEM_UPDATE_TIME = "2018-11-01";
 
 	/**
 	 * 项目路径
