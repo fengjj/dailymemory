@@ -65,7 +65,7 @@
                             <p>当前版本:${systemVersion}</p>
                             <p>当前版本更新时间:${systemUpdateTime}</p>
                             <p>最新版本:<span class="lastSystemVersion"></span> &nbsp;&nbsp;
-                                <a href="http://www.jeesns.cn" target="_blank">官网查看</a></p>
+                                <a href="http://dailymemory.cn" target="_blank">官网查看</a></p>
                             <p>最新版本更新时间:<span class="lastSystemUpdateTime"></span></p>
                             <p>&nbsp;</p>
                             <p>&nbsp;</p>

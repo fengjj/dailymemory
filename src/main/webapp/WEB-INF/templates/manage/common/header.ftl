@@ -1,6 +1,6 @@
 <header class="main-header">
     <a href="http://dailymemory.cn" class="logo" target="_blank">
-        <span class="logo-mini"><b>JEE</b></span>
+        <span class="logo-mini"><b></b></span>
         <span class="logo-lg"><b>Daily Memory</b></span>
     </a>
     <nav class="navbar navbar-static-top">
